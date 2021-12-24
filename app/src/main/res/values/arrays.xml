@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tag">
+        <item>고장신고</item>
+        <item>불편사항</item>
+        <item>건의사항</item>
+    </string-array>
+</resources>
